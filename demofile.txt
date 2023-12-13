@@ -1,0 +1,3 @@
+Line 1: NumPy is a Python library used for working with arrays.
+Line 2: It also has functions for working in domain of
+Line 3:linear algebra, fourier transform, and matrices. 
